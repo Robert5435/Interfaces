@@ -1,0 +1,10 @@
+D:\Ubuntu\intefaces\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Ubuntu\intefaces\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Ubuntu\intefaces\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Ubuntu\intefaces\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\Ubuntu\intefaces\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\Ubuntu\intefaces\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\Ubuntu\intefaces\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Ubuntu\intefaces\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\Ubuntu\intefaces\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Ubuntu\intefaces\ConsoleUI\obj\Debug\ConsoleUI.pdb
